@@ -10,6 +10,8 @@ these are my archived minecraft resource packs that are no longer on modrinth
 these resource packs are discontinued so you will not find them on modrinth and this is the only way
 to get them
 
+go to the resourcepakcs folder in the repo and click on the one you want, then click view raw
+
 ---
 
 [Visit my modrinth profile](https://modrinth.com/user/Cool_one)
